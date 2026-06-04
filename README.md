@@ -24,7 +24,7 @@
 
 <p align="center">✦ <i>"𝔦𝔫 𝔪𝔶 𝔯𝔢𝔰𝔱𝔩𝔢𝔰𝔰 𝔡𝔯𝔢𝔞𝔪𝔰,</i></p>
 <p align="center"><i>𝔦 𝔰𝔢𝔢 𝔱𝔥𝔞𝔱 𝔱𝔬𝔴𝔫.</i></p>
-<p align="center">✧ <i>𝔰𝔦𝔩𝔢𝔫𝔱 𝔥𝔦𝔩𝔩." ✦</i></p>
+<p align="center"> <i>𝔰𝔦𝔩𝔢𝔫𝔱 𝔥𝔦𝔩𝔩." ✦</i></p>
 
 <p align="center"> ──── ✦ ──── </p>
 
