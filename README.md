@@ -29,7 +29,7 @@
 <p align="center">────── ✦ ──────</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/279357ec-b372-4474-b9e3-4b80a7ce86d2" width="200" />
+  <img src="https://github.com/user-attachments/assets/279357ec-b372-4474-b9e3-4b80a7ce86d2" width="300" />
 </p>
 
 
