@@ -37,3 +37,7 @@
 <p align="center">
 ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f866fcb4-ce3a-4a79-8eae-343678ce3bb9" width="180" />
+</p>
