@@ -1,14 +1,15 @@
 <p align="center"><b>✦ 𝔈𝔠𝔥𝔬 ✦</b></p>
+
 <p align="center">
-  ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
 </p>
 
 <p align="center">
-<img width="2633" height="797" alt="картк" src="https://github.com/user-attachments/assets/a0f8e9ee-efe7-4b16-832d-d96f645e00b7" />
+  <img src="https://github.com/user-attachments/assets/a0f8e9ee-efe7-4b16-832d-d96f645e00b7" width="90%" />
 </p>
 
 <p align="center">
-  ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
+✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
 </p>
 
 <p align="center"><b>✦ ... ✦</b></p>
@@ -30,17 +31,9 @@
 <p align="center">────── ✦ ──────</p>
 
 <p align="center">
-  <img width="600" height="162" alt="ыва" src="https://github.com/user-attachments/assets/279357ec-b372-4474-b9e3-4b80a7ce86d2" />
+  <img src="https://github.com/user-attachments/assets/279357ec-b372-4474-b9e3-4b80a7ce86d2" width="600" />
 </p>
 
 <p align="center">
-  ✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-</p>
-
-<p align="center">✦ ───────── ✦</p>
-
-<p align="center">✦ ────── ✦</p>
-
-<p align="center">
-
+✦ ･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
 </p>
