@@ -16,7 +16,6 @@
 
 <p align="center">✧ 𝟏𝟔 𝔶.𝔬. ✧</p>
 
-<p align="center">────── ✦ ──────</p>
 
 <p align="center">✧ 𝔰𝔥𝔢 / 𝔥𝔢𝔯 ✧</p>
 <p align="center">✧ 𝔯𝔲𝔰 / 𝔢𝔫𝔤 / 𝔯𝔬𝔪 ✧</p>
