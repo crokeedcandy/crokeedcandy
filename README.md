@@ -15,7 +15,6 @@
 <p align="center"><b>✦ ... ✦</b></p>
 
 <p align="center">✧ 𝟏𝟔 𝔶.𝔬. ✧</p>
-<p align="center">✧ 𝔩𝔬𝔰𝔱 𝔦𝔫 𝔱𝔥𝔢 𝔣𝔬𝔤 ✧</p>
 
 <p align="center">────── ✦ ──────</p>
 
