@@ -15,7 +15,7 @@
 
 <p align="center"><b>✦ ... ✦</b></p>
 
-<p align="center"> 𝟏𝟔 𝔶.𝔬. </p>
+<p align="center"> 𝟏7 𝔶.𝔬. </p>
 
 
 <p align="center"> 𝔰𝔥𝔢 / 𝔥𝔢𝔯 </p>
